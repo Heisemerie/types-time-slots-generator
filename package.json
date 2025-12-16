@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/heisemerie/types-time-slots-generator"
   },
+   "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {},
   "devDependencies": {}
 }
